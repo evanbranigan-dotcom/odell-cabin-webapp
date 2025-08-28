@@ -30,3 +30,4 @@ firebase-debug.log
 
 # Setup script (contains sensitive data)
 setup-approved-users.js
+.vercel
